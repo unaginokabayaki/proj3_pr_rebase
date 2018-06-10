@@ -1,7 +1,5 @@
 init
-<<<<<<< HEAD
 fix1
 fix2
-=======
 add1
->>>>>>> add1
+add2
